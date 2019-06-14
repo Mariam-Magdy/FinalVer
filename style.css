@@ -9701,8 +9701,8 @@ h1, h2, h3, h4, h5,
   border: 1px solid #4f1636;
 }
 .ftco-navbar-light .navbar-nav > .nav-item.cta.cta-colored a {
-  border: 1px solid #c71178;
-  background: #c71178 !important;
+  border: 1px solid #7e1350;
+  background: #7e1350 !important;
 }
 .ftco-navbar-light .navbar-nav > .nav-item .nav-link.active {
   background: transparent;
@@ -10041,23 +10041,23 @@ h1, h2, h3, h4, h5,
   color: #fff !important;
 }
 .btn.btn-secondary {
-  background: #c71178 !important;
-  border: 1px solid #c71178 !important;
+  background: #7e1350 !important;
+  border: 1px solid #7e1350 !important;
   color: #fff !important;
 }
 .btn.btn-secondary:hover {
-  border: 1px solid #c71178 !important;
+  border: 1px solid #7e1350 !important;
   background: transparent !important;
-  color: #c71178 !important;
+  color: #7e1350 !important;
 }
 .btn.btn-secondary.btn-outline-primary {
-  border: 1px solid #c71178;
+  border: 1px solid #7e1350;
   background: transparent;
-  color: #c71178;
+  color: #7e1350;
 }
 .btn.btn-secondary.btn-outline-primary:hover {
   border: 1px solid transparent;
-  background: #c71178;
+  background: #7e1350;
   color: #fff;
 }
 .btn.btn-white {
@@ -10839,7 +10839,7 @@ textarea.form-control {
 }
 
 .bg-secondary {
-  background: #c71178 !important;
+  background: #7e1350 !important;
 }
 
 .about-author .desc h3 {
@@ -11490,7 +11490,7 @@ textarea.form-control {
   font-weight: 400;
 }
 .block-27 ul li a, .block-27 ul li span {
-  color: #c71178;
+  color: #7e1350;
   text-align: center;
   display: inline-block;
   width: 40px;
@@ -11500,7 +11500,7 @@ textarea.form-control {
   border: 1px solid #cccccc;
 }
 .block-27 ul li.active a, .block-27 ul li.active span {
-  background: #c71178;
+  background: #7e1350;
   color: #fff;
   border: 1px solid transparent;
 }
